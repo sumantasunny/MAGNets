@@ -1,6 +1,6 @@
 # MAGNets
 
-#Cite
+# Cite
 @inproceedings{dey2024magnets,
   title={MAGNets: Micro-Architectured Group Neural Networks},
   author={Dey, Sumanta and Gangopadhyay, Briti and Dasgupta, Pallb and Dey, Soumyajit},
